@@ -1,3 +1,3 @@
 # Digit_Recognizer
 
-Kaggle entry using a Convolutional Neural Network for the digit recognizer challenge.
+Kaggle entry using a Convolutional Neural Network to perform image classification for the digit recognizer challenge.
